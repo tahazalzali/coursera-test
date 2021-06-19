@@ -1,0 +1,144 @@
+01
+zeinab chehab
+B+
+Female
+18-1-2001
+81601092
+jnoub-bentjbeil
+Diabetic
+02
+hassan ali
+O+
+Male
+30-7-1997
+85469367
+nabtieh
+Hyper tension
+03
+alaa chehab
+B+
+Male
+3-8-1986
+64738767
+jnoub-bentjbeil
+systemically
+04
+dalal bdeir
+B+
+Female
+2-6-1966
+81673867
+jnoub-bentjbeil
+FMF
+05
+fatme chehab
+B+
+Female
+11-2-1989
+71845678
+jnoub-bentjbeil
+angina
+06
+aya bdeir
+O+
+Female
+15-11-1999
+76432895
+beirut-hamra
+hypo thyrodism
+07
+ali koeik
+A+
+Male
+13-8-1999
+76438763
+beirut
+headache
+08
+abdullah korani
+O+
+Male
+1-7-1996
+81549854
+sour
+backache
+09
+aya ali
+A+
+Female
+17-1-1999
+7185664
+beirut
+headache
+010
+zeinab ali
+B+
+Female
+18-1-2000
+73654985
+sour
+headache
+011
+mahmoud chehab
+B+
+Male
+23-10-1993
+65783456
+sour
+heart disease
+012
+sara bdeir
+A+
+Female
+11-11-1990
+56748365
+hamra
+heart disease
+1
+zeinab
+b+
+Female
+18-1-2001
+81601092
+jnoub
+cancer
+1
+zeinab chehab
+B+
+Female
+18-1-2001
+81601092
+jnoub
+cancer
+1
+zeinab chehab
+B+
+Female
+18-1-2001
+81601092
+jnoub
+cancer
+1
+taha zalzli
+O+
+Male
+22-1-200
+65387256
+beirut
+stress
+2
+zeinab chehab
+B+
+Female
+18-1-2001
+73638328
+jnoub
+cancer
+3
+aya jaber
+A+
+Female
+16-5-1999
+53782456
+nabtye
+headache
